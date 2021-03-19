@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "# #",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "pineapplemod:pineapple_ingot"
+    }
+  },
+  "result": {
+    "item": "pineapplemod:pineapple_hole_block"
+  }
+}

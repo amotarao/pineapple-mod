@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "pineapplemod:block/pineapple_hole_block"
+  }
+}
