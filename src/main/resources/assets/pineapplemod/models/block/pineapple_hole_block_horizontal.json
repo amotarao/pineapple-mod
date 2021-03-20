@@ -1,5 +1,5 @@
 {
-  "parent": "block/cube_column",
+  "parent": "block/cube_column_horizontal",
   "textures": {
     "end": "pineapplemod:block/pineapple_hole_block_top",
     "side": "pineapplemod:block/pineapple_hole_block_side"
