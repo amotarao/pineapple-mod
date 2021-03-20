@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "pineapple_ingot",
+  "ingredients": [
+    {
+      "item": "pineapplemod:pineapple_hole_block"
+    }
+  ],
+  "result": {
+    "item": "pineapplemod:pineapple_ingot",
+    "count": 8
+  }
+}

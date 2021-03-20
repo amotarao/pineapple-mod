@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "pineapplemod:block/pineapple_hole_block_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "pineapplemod:block/pineapple_hole_block"
+    },
+    "axis=z": {
+      "model": "pineapplemod:block/pineapple_hole_block_horizontal",
+      "x": 90
+    }
+  }
+}

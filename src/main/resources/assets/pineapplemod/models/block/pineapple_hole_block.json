@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "pineapplemod:block/pineapple_hole_block_top",
+    "side": "pineapplemod:block/pineapple_hole_block_side"
+  }
+}
