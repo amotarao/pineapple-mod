@@ -17,19 +17,10 @@ public class PineappleHoleBlock extends Block {
         super(Properties
                 .of(Material.METAL)
                 .requiresCorrectToolForDrops()
-                .friction(3.0F)
-                .speedFactor(3.0F)
                 .strength(3.0F)
                 .harvestLevel(1)
                 .sound(SoundType.METAL)
                 .harvestTool(ToolType.PICKAXE)
         );
-    }
-
-    @Override
-    public List<ItemStack> getDrops(BlockState p_220076_1_, LootContext.Builder p_220076_2_) {
-        List<ItemStack> list = new ArrayList<>();
-        list.add(new ItemStack(PineappleMod.Items.PINEAPPLE_HOLE_BLOCK.get()));
-        return list;
     }
 }
