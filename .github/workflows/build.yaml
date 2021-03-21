@@ -22,7 +22,7 @@ jobs:
           java-version: 1.8
 
       - name: Build with Gradle
-        run: ./gradew build
+        run: ./gradlew build
 
       - name: Archive Library
         uses: actions/upload-artifact@v2
